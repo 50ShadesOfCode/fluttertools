@@ -1,2 +1,9 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# FlutterTools
+#### _Command-line interface (CLI) tool for creating and managing a Flutter project_
+
+## Getting Started
+
+Activate globally via:
+```sh
+dart pub global activate fluttertools
+```
